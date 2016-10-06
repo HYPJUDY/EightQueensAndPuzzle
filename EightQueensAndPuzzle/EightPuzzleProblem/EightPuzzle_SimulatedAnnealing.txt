@@ -1,0 +1,1006 @@
+EightPuzzle_SimulatedAnnealing result:
+
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+
+Total time: 5153.33551336
+Total case number: 1000, Success case number: 482
+Success rate: 0.482
